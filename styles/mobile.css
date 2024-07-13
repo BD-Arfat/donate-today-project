@@ -24,8 +24,6 @@
     font-size: 16px;
     width: 90%;
   }
-
-  /* Donate Today section styles */
   .donat-container {
     width: 100%;
   }
@@ -44,5 +42,21 @@
     background-color: rgb(211, 208, 208);
     padding: 30px;
     border-radius: 10px;
+  }
+
+  /* <!-- Our Donate Plan section styles --> */
+
+  .donate-plan-container {
+    width: 100%;
+    margin: 70px auto;
+  }
+  .donate-plan-container h1 {
+    font-size: 35px;
+  }
+  .donate-plan-container p {
+    width: 99%;
+  }
+  .donate-plan-content {
+    flex-direction: column;
   }
 }
