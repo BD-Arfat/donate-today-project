@@ -1,0 +1,15 @@
+@media screen and (max-width: 576px) {
+  .banner-content {
+    height: 550px;
+  }
+  .banner-content h1 {
+    font-size: 32px;
+    margin: 20px;
+    line-height: 40px;
+    width: 100%;
+  }
+  .banner-content p {
+    width: 100%;
+    font-size: 16px;
+  }
+}
