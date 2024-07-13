@@ -1,6 +1,6 @@
 @media screen and (max-width: 576px) {
   .banner-content {
-    height: 550px;
+    height: 690px;
   }
   .banner-content h1 {
     font-size: 32px;
@@ -11,5 +11,38 @@
   .banner-content p {
     width: 100%;
     font-size: 16px;
+  }
+
+  /* Donate Today section styles */
+  .donat-container {
+    width: 100%;
+  }
+  .donat-container h1 {
+    font-size: 35px;
+  }
+  .donat-container p {
+    font-size: 16px;
+    width: 90%;
+  }
+
+  /* Donate Today section styles */
+  .donat-container {
+    width: 100%;
+  }
+  .donat-container p {
+    width: 99%;
+  }
+  .donate-content {
+    flex-direction: column;
+    justify-content: start;
+    margin: 10px;
+  }
+  .donate-content h1 {
+    font-size: 18px;
+  }
+  .donate-item {
+    background-color: rgb(211, 208, 208);
+    padding: 30px;
+    border-radius: 10px;
   }
 }
