@@ -59,4 +59,24 @@
   .donate-plan-content {
     flex-direction: column;
   }
+  /* <!-- Donate directly section --> */
+  .directly-donate-container {
+    width: 100%;
+  }
+  .one {
+    flex-direction: column-reverse;
+  }
+  .two {
+    flex-direction: column;
+  }
+  .directly-donate-item {
+    width: 95%;
+    text-align: justify;
+  }
+  .directly-donate-content img {
+    width: 100%;
+  }
+  .directly-donate-content h1 {
+    font-size: 35px;
+  }
 }
